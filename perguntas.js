@@ -21,3 +21,15 @@ criaCartao(
     'Quantos ossos temos no nosso corpo',
     '206'
 )
+
+criaCartao(
+    'Ciẽncias',
+    'Qual o maior planeta do sistema solar?',
+    'Júpiter'
+)
+
+criaCartao(
+    'Conhecimentos gerais',
+    'Quais as duas línguas mais faladas no mundo?',
+    'Inglês e mandarim chinês.'
+)
